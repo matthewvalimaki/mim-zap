@@ -1,0 +1,3 @@
+#!/usr/bin/with-contenv sh
+
+exec s6-setuidgid zap zap.sh -daemon -host 0.0.0.0 -newsession /tmp/zap/;

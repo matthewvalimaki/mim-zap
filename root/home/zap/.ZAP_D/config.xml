@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+<version>1004000</version>
+<userDir/>
+<dynssl>
+<param>
+<rootca>_u3-7QAAAAIAAAABAAAAAQARb3dhc3BfemFwX3Jvb3RfY2EAAAFXmoftOgAABQAwggT8MA4GCisGAQQBKgIRAQEFAASCBOg3B6Ha9j9ALmgjzyKzLxGL8MvM-enhJ68_jrXkVV1Dr-AjeIQQxUP3m3d9Uianp0e_FnA6Bs6wpLpJwbynZcymjU4ln1nK6heGfge-6m_ED3D__SYP4P-cGu0hMoqZPwe1dytsoG_By3fGdgU_ET66LZJM4RLi-5k-EdvkO7RF1rVoNhrlCQPuuCTF0Q7XPI2otu6tlaofkps9za6hIOfiyOQLFcZl6KppYs905k5WlrM4PqHg71dXd3o-uAx8yqidGu6aDuaX8sTpzkE_cyHvT4yOaKaTU1u3NLh-wFTz8OrsO0aHQvQAafQVi1b0_bYcJAP_tyjKBWW9tR3ouXOLTuaQAUGdhKzXoNlVySHymngU4_YZ6zvgpx9z9wVz_ea8XMDHt5Cmygk36ckaykSYnfpDCZGRiWKaC5vUv1aNx8o-gTqzlmNTnNCYKjALoyJkCSiKmAEWKZL12fuVZ1xJ27-iOvK_cHK2-QNHOP5JTNzhSOFCw2Y1s4q5Zs0bCMg4TUj-4uIn3VWh6p-aFo3P8-jqj5cunK_5_-EzaUP0ka5jpwRJojBqujrnso6SZgbbiiVFeOmzAPzJlNL8JGjQIbcCcxOESY4vG-T2CJf3ZulP3Pa7Th9lfM2IeA32FWoXJoQIj1B02DAt4gUElwwewgkcloP7Prq5p43PbughYgdKHWnOa2eA-UJBPqMUCD869uqBzM1u8bOHqDU4wQfNsYXHs6u6onsC_LJENXzPuQcUXVoNUUu9cS5lZYGm4RgPD-o8YWwby_sljXDTfvs9kMZdDiD7jqRlZQuZJ9ZfXsjUEP6ioyo7nxFaYfZ02xc6UQmzpdDAsMbiRyI4pQVikA8xIzJ3_287JxA55tOzTOOdhO11R-dt5ACeXDQi2q5VhSwrtfC978ZFYCWKEHr6mU1OnahkqWMffWpJZcwDNvOh1jJceCXqBE1YaXkXvYT_RmK-bM57QxatbWZTDRwe3uexTifp5-l9stsDFZ1QN729BrZqTm2i7-U3CtJ1LXTNI3DmygXO2NQfKEcXinW-oOSOMXUKMOgY0LaxHj8IXGAxzhWcX95y9dZDiYKzazfadPtzJyJ1dlVpS2n0TdkKtnYUiwDPmF8kVerh7KPAVQqAIrlZ6ap2xVFk-xuDq0bJXdGckVOA_UQ_AsL6vIPGTRmy3su90uS4Y444p__EQKfDPDnSaPB8_WPLulwafbJyZvITSo0ZQ0Rm74Aq8VfqNcqZqLnbpBCSqcGm_c0xhHkGJEqd9shBLppKX7YaF5GsTmqYzzAhOvvwgLkS_5ulyuiOzcpYEgx3MLXxXmq-ZipiDJKd-spV9SdESJXbKerxobqwOc80fOSVG-AgPY5FE_BqzGmert5RNC8wpbuE5-s0i_FjVci8BG9Ul0qvlNZ41NuqABHfLpbs-yVBIYgSBHUgGuo14XncYR4qECsdHGO_yHl62w9ZtFQmPoracsORAgswqjpJd-yLk8TjsN99PVoZnv5vHUnFeEgbGdnKYKO8LQuA30H4MGhOFvYHv_HTAfb8qr_Czb-luBWXS8ncp-Z_P7ZTayJ4c-pN4Cqaaw2gEE6XUrzfdhhWb3DhF9J-z81g5ll1-WK6EULIGHcx6pR_kImF9IvDBOj7y6BkT0512vxZB082ngwiGsAXwKXcWFxdSpqX3QAAAAEABVguNTA5AAAFDjCCBQowggPyoAMCAQICBGQkZ0gwDQYJKoZIhvcNAQELBQAwgYUxJzAlBgNVBAMMHk9XQVNQIFplZCBBdHRhY2sgUHJveHkgUm9vdCBDQTEZMBcGA1UEBwwQZGE0ZjdiY2VkMzk4NTg1ODEWMBQGA1UECgwNT1dBU1AgUm9vdCBDQTEaMBgGA1UECwwRT1dBU1AgWkFQIFJvb3QgQ0ExCzAJBgNVBAYTAnh4MB4XDTE2MTAwNjE1MDYyMVoXDTE3MTAwNjE1MDYyMVowgYUxJzAlBgNVBAMMHk9XQVNQIFplZCBBdHRhY2sgUHJveHkgUm9vdCBDQTEZMBcGA1UEBwwQZGE0ZjdiY2VkMzk4NTg1ODEWMBQGA1UECgwNT1dBU1AgUm9vdCBDQTEaMBgGA1UECwwRT1dBU1AgWkFQIFJvb3QgQ0ExCzAJBgNVBAYTAnh4MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5bvtMd6KXqkxEY9fRVBuOfjN-oq6KVPfwunFddtpA5PrvKUZaKAvGbSD3xfwRSeZR5eL_ezi6EXAzyaqCK64nXJw8K4bOfW8aDUbu00c1muyeFdJk_pBo6LSOZg-cNJJYsMsdQigOQOcAYp4nRe7rYpIBGgJ8clZOqZfwRZQVlHwzw46BP3vkvBH8aYMf-15F-3PlBwqhabSKezzZi_B9e_rErTll0ACeDUncV1MKVbiIns2MeleKglcHl9Z8G1LoQcj8flJzVYLTxmpCdfWxwVhACSKfvQPe7Gb9Q4vNvrlDOGh55jBkILY2jsgT62N7Z8ydMJSYeqoTUGDwchkXQIDAQABo4IBfjCCAXowggEzBgNVHQ4EggEqBIIBJjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOW77THeil6pMRGPX0VQbjn4zfqKuilT38LpxXXbaQOT67ylGWigLxm0g98X8EUnmUeXi_3s4uhFwM8mqgiuuJ1ycPCuGzn1vGg1G7tNHNZrsnhXSZP6QaOi0jmYPnDSSWLDLHUIoDkDnAGKeJ0Xu62KSARoCfHJWTqmX8EWUFZR8M8OOgT975LwR_GmDH_teRftz5QcKoWm0ins82YvwfXv6xK05ZdAAng1J3FdTClW4iJ7NjHpXioJXB5fWfBtS6EHI_H5Sc1WC08ZqQnX1scFYQAkin70D3uxm_UOLzb65QzhoeeYwZCC2No7IE-tje2fMnTCUmHqqE1Bg8HIZF0CAwEAATAPBgNVHRMBAf8EBTADAQH_MAsGA1UdDwQEAwIBtjAjBgNVHSUEHDAaBggrBgEFBQcDAQYIKwYBBQUHAwIGBFUdJQAwDQYJKoZIhvcNAQELBQADggEBACftzahw6nnxd32BylThD9K6Q_5oTN4mzo2N4kMW9RM6DQEKokbIuKdC8g4Y6h_O_gCfFLoVjmmZ43g2eP8Kqxkp5K56R8dUM3VpNBZYo2vbhWDyNiPhhuG2wzqYhP9VoDazj84oRWinWBHQKBc6HgfpZLxw72W9JIzTFoHwu-nWAbwQmPk5UPslEjcTnj5Or_OS0PvRWFXmQm8wPHtAQIKRsYj6_3WrcAgcQ-2QRm-Yg-XECRIwi3HCtLFUU34Y-A6KZfnX9SpMlY8L4604M-UH0l-kiID8XaGPWNVbPWTLK356WGOUo5xltNIy5bpuiHR9CNohhfSmkpIhSk32z6ffxOBuNjnLzxHgAgWtl4wDtI27zg</rootca>
+</param>
+</dynssl>
+<connection>
+		<proxyChain>
+			<hostName/>
+			<port>8080</port>
+			
+			<realm/>
+			<userName/>
+			<password/>		
+			<prompt>false</prompt>
+		<enabled>false</enabled>
+</proxyChain>
+		<auth/>
+		<securityProtocolsEnabled>
+			<protocol>SSLv3</protocol>
+			<protocol>TLSv1</protocol>
+			<protocol>TLSv1.1</protocol>
+			<protocol>TLSv1.2</protocol>
+		</securityProtocolsEnabled>
+	<timeoutInSecs>20</timeoutInSecs>
+</connection>
+<proxy>
+		<ip>localhost</ip>
+		<port>8080</port>
+		<reverseProxy>
+			<use>0</use>	
+			<ip>localhost</ip>
+			<httpPort>80</httpPort>
+			<httpsPort>443</httpsPort>
+		</reverseProxy>		
+		<securityProtocolsEnabled>
+			<protocol>SSLv3</protocol>
+			<protocol>TLSv1</protocol>
+			<protocol>TLSv1.1</protocol>
+			<protocol>TLSv1.2</protocol>
+		</securityProtocolsEnabled>
+	</proxy>
+<view>
+		<processImages>0</processImages>
+		<displayOption>1</displayOption>
+		<editorView>2</editorView>
+		<brkPanelView>0</brkPanelView>
+		<showMainToolbar>1</showMainToolbar>
+	</view>
+<start>
+        <checkForUpdates>false</checkForUpdates>
+    </start>
+<certificate>
+		<use>0</use>
+		<clientCertLocation/>
+		<experimentalSlotListIndex>false</experimentalSlotListIndex>
+	</certificate>
+<spider>
+		<thread>2</thread>
+		<maxDepth>5</maxDepth>
+		<scope/>
+		<postform>true</postform>
+		<processform>true</processform>
+		<sendCookies>false</sendCookies>
+		<skipurl/>
+		<requestwait>200</requestwait>
+		<parseComments>true</parseComments>
+		<parseRobotsTxt>true</parseRobotsTxt>
+	</spider>
+<scanner>
+		<hostPerScan>2</hostPerScan>
+		<threadPerHost>2</threadPerHost>
+	</scanner>
+<portscan>
+		<threadPerHost>5</threadPerHost>
+		<maxPort>10240</maxPort>
+	</portscan>
+<pscans>
+		<autoTagScanners>
+			<scanner>
+				<name>html_tag_form</name>
+				<type>TAG</type>
+				<config>Form</config>
+				<reqUrlRegex/>
+				<reqHeadRegex/>
+				<resHeadRegex/>
+				<resBodyRegex>&lt;form</resBodyRegex>
+				<enabled>true</enabled>
+			</scanner>
+			<scanner>
+				<name>html_tag_password</name>
+				<type>TAG</type>
+				<config>Password</config>
+				<reqUrlRegex/>
+				<reqHeadRegex/>
+				<resHeadRegex/>
+				<resBodyRegex>&lt;password\s</resBodyRegex>
+				<enabled>true</enabled>
+			</scanner>
+			<scanner>
+				<name>html_type_password</name>
+				<type>TAG</type>
+				<config>Password</config>
+				<reqUrlRegex/>
+				<reqHeadRegex/>
+				<resHeadRegex/>
+				<resBodyRegex>type\s*=\s*['"]?password['"]?</resBodyRegex>
+				<enabled>true</enabled>
+			</scanner>
+			<scanner>
+				<name>html_type_hidden</name>
+				<type>TAG</type>
+				<config>Hidden</config>
+				<reqUrlRegex/>
+				<reqHeadRegex/>
+				<resHeadRegex/>
+				<resBodyRegex>type\s*=\s*['"]?hidden['"]?</resBodyRegex>
+				<enabled>true</enabled>
+			</scanner>
+			<scanner>
+				<name>html_type_upload</name>
+				<type>TAG</type>
+				<config>Upload</config>
+				<reqUrlRegex/>
+				<reqHeadRegex/>
+				<resHeadRegex/>
+				<resBodyRegex>type\s*=\s*['"]?file['"]?</resBodyRegex>
+				<enabled>true</enabled>
+			</scanner>
+			<scanner>
+				<name>html_tag_object</name>
+				<type>TAG</type>
+				<config>Object</config>
+				<reqUrlRegex/>
+				<reqHeadRegex/>
+				<resHeadRegex/>
+				<resBodyRegex>&lt;object\s</resBodyRegex>
+				<enabled>true</enabled>
+			</scanner>
+			<scanner>
+				<name>html_tag_script</name>
+				<type>TAG</type>
+				<config>Script</config>
+				<reqUrlRegex/>
+				<reqHeadRegex/>
+				<resHeadRegex/>
+				<resBodyRegex>&lt;script</resBodyRegex>
+				<enabled>true</enabled>
+			</scanner>
+			<scanner>
+				<name>html_mailto</name>
+				<type>TAG</type>
+				<config>MailTo</config>
+				<reqUrlRegex/>
+				<reqHeadRegex/>
+				<resHeadRegex/>
+				<resBodyRegex>&lt;.*href\s*['"]?mailto:</resBodyRegex>
+				<enabled>true</enabled>
+			</scanner>
+			<scanner>
+				<name>html_setcookie</name>
+				<type>TAG</type>
+				<config>SetCookie</config>
+				<reqUrlRegex/>
+				<reqHeadRegex/>
+				<resHeadRegex>set-cookie</resHeadRegex>
+				<resBodyRegex/>
+				<enabled>true</enabled>
+			</scanner>
+			<scanner>
+				<name>html_comment1</name>
+				<type>TAG</type>
+				<config>Comment</config>
+				<reqUrlRegex/>
+				<reqHeadRegex/>
+				<resHeadRegex/>
+				<resBodyRegex>/\*</resBodyRegex>
+				<enabled>true</enabled>
+			</scanner>
+			<scanner>
+				<name>html_comment2</name>
+				<type>TAG</type>
+				<config>Comment</config>
+				<reqUrlRegex/>
+				<reqHeadRegex/>
+				<resHeadRegex/>
+				<resBodyRegex>&lt;!--</resBodyRegex>
+				<enabled>true</enabled>
+			</scanner>
+			<scanner>
+				<name>response_json</name>
+				<type>TAG</type>
+				<config>JSON</config>
+				<reqUrlRegex/>
+				<reqHeadRegex/>
+				<resHeadRegex>type\s*:\s*application\/json</resHeadRegex>
+				<resBodyRegex/>
+				<enabled>true</enabled>
+			</scanner>
+		</autoTagScanners>
+	</pscans>
+<anticsrf>
+		<tokens>
+			<token>
+				<enabled>true</enabled>
+				<name>anticsrf</name>
+			</token>
+			<token>
+				<enabled>true</enabled>
+				<name>CSRFToken</name>
+</token>
+			<token>
+				<enabled>true</enabled>
+				<name>__RequestVerificationToken</name>
+			</token>
+			<token>
+				<enabled>true</enabled>
+				<name>csrfmiddlewaretoken</name>
+			</token>
+			<token>
+				<enabled>true</enabled>
+				<name>authenticity_token</name>
+			</token>
+		</tokens>
+	</anticsrf>
+<runnableAddOns>
+<addon>
+<id>soap</id>
+<version>3</version>
+</addon>
+<addon>
+<id>zest</id>
+<version>23</version>
+</addon>
+<addon>
+<id>invoke</id>
+<version>5</version>
+</addon>
+<addon>
+<id>plugnhack</id>
+<version>10</version>
+</addon>
+<addon>
+<id>coreLang</id>
+<version>11</version>
+</addon>
+<addon>
+<id>directorylistv1</id>
+<version>3</version>
+</addon>
+<addon>
+<id>quickstart</id>
+<version>19</version>
+</addon>
+<addon>
+<id>ascanrules</id>
+<version>25</version>
+</addon>
+<addon>
+<id>sequence</id>
+<version>3</version>
+</addon>
+<addon>
+<id>portscan</id>
+<version>8</version>
+</addon>
+<addon>
+<id>fuzz</id>
+<version>7</version>
+</addon>
+<addon>
+<id>onlineMenu</id>
+<version>5</version>
+</addon>
+<addon>
+<id>ascanrulesBeta</id>
+<version>21</version>
+</addon>
+<addon>
+<id>pscanrulesBeta</id>
+<version>14</version>
+</addon>
+<addon>
+<id>reveal</id>
+<version>2</version>
+</addon>
+<addon>
+<id>help</id>
+<version>6</version>
+</addon>
+<addon>
+<id>diff</id>
+<version>7</version>
+</addon>
+<addon>
+<id>websocket</id>
+<version>12</version>
+<extensions>
+<extension>org.zaproxy.zap.extension.websocket.fuzz.ExtensionWebSocketFuzzer</extension>
+</extensions>
+</addon>
+<addon>
+<id>gettingStarted</id>
+<version>6</version>
+</addon>
+<addon>
+<id>pscanrules</id>
+<version>18</version>
+</addon>
+<addon>
+<id>saverawmessage</id>
+<version>3</version>
+</addon>
+<addon>
+<id>bruteforce</id>
+<version>6</version>
+</addon>
+<addon>
+<id>scripts</id>
+<version>18</version>
+</addon>
+<addon>
+<id>alertFilters</id>
+<version>4</version>
+</addon>
+<addon>
+<id>spiderAjax</id>
+<version>16</version>
+</addon>
+<addon>
+<id>accessControl</id>
+<version>2</version>
+</addon>
+<addon>
+<id>selenium</id>
+<version>7</version>
+</addon>
+<addon>
+<id>tips</id>
+<version>6</version>
+</addon>
+</runnableAddOns>
+</config>
